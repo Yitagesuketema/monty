@@ -47,3 +47,33 @@ void free_stack(stack_t *stack);
 void opcomp(stack_t **stack, unsigned int line_number, char *opcode);
 void push(stack_t **stack, unsigned int line_number);
 void pall(stack_t **stack, unsigned int line_number);
+void pint(stack_t **stack, unsigned int line_number);
+void pop(stack_t **stack, unsigned int line_number);
+void swap(stack_t **stack, unsigned int line_number);
+void add(stack_t **stack, unsigned int line_number);
+void sub(stack_t **stack, unsigned int line_number);
+void mul(stack_t **stack, unsigned int line_number);
+void divide(stack_t **stack, unsigned int line_number);
+void mod(stack_t **stack, unsigned int line_number);
+void nop(stack_t **stack, unsigned int line_number);
+void pchar(stack_t **stack, unsigned int line_number);
+void pstr(stack_t **stack, unsigned int line_number);
+void rotl(stack_t **stack, unsigned int line_number);
+void rotr(stack_t **stack, unsigned int line_number);
+
+
+
+/**
+ * struct GlobalStruct - contains all globals
+ * @data: int for push
+ * @fm: file stream for monty file
+ * @lineptr: pointer to char sting allocated by getline function
+ */
+struct GlobalStruct
+{
+	int data;
+	FILE *fm;
+	char *lineptr;
+} globes;
+
+#endif /* _MONTY */
