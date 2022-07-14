@@ -1,3 +1,8 @@
+/*
+ * File: pop.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_pop - prints the top

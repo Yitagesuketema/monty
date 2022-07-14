@@ -1,3 +1,8 @@
+/*
+ * File: pall.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_pall - prints the stack

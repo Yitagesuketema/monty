@@ -1,3 +1,8 @@
+/*
+ * File: mul.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_mul - multiplies the top two elements of the stack.

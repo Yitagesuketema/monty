@@ -1,3 +1,8 @@
+/*
+ * File: stack.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_stack - prints the top

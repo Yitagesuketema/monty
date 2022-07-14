@@ -1,3 +1,8 @@
+/*
+ * File: pint.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_pint - prints the top

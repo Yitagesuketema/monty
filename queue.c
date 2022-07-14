@@ -1,3 +1,8 @@
+/*
+ * File: queue.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_queue - prints the top

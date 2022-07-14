@@ -1,3 +1,8 @@
+/*
+ * File: push.c
+ * Auth: Yitagesu K Areda
+ */
+
 #include "monty.h"
 /**
  * f_push - add node to the stack
