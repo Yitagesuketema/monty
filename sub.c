@@ -1,8 +1,3 @@
-/*
- * File: sub.c
- * Auth: Yitagesu K Areda
- */
-
 #include "monty.h"
 /**
   *f_sub- sustration

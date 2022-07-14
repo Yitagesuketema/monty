@@ -1,8 +1,3 @@
-/*
- * File: add.c
- * Auth: Yitagesu K Areda
- */
- 
 #include "monty.h"
 /**
  * f_add - adds the top two elements of the stack.

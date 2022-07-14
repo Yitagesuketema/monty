@@ -1,8 +1,3 @@
-/*
- * File: addnode.c
- * Auth: Yitagesu K Areda
- */
-
 #include "monty.h"
 /**
  * addnode - add node to the head stack

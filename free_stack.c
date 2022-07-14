@@ -1,8 +1,3 @@
-/*
- * File: free_stack.c
- * Auth: Yitagesu K Areda
- */
-
 #include "monty.h"
 /**
 * free_stack - frees a doubly linked list
